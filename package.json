@@ -10,6 +10,11 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "description": "Simple ng4 project by YouTube: https://www.youtube.com/watch?v=gOSdZJ7gpOc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyGitHubFrom16/ng4-pg-material.git"
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.0.0",
@@ -18,6 +23,7 @@
     "@angular/core": "^4.0.0",
     "@angular/forms": "^4.0.0",
     "@angular/http": "^4.0.0",
+    "@angular/material": "^2.0.0-beta.8",
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
